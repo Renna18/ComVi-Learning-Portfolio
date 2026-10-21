@@ -1,24 +1,61 @@
 
 # Computer Vision Learning Portfolio
 
-Welcome to my **Computer Vision Learning Portfolio**! This repository showcases my laboratory activities and midterm project for my Computer Vision course. It serves as a collection of my projects and practical applications of computer vision concepts.
+Welcome to my Computer Vision Learning Portfolio! This repository contains my laboratory activities and project outputs for the Computer Vision course.
+
+## About Me
+
+I am a BS Computer Science student exploring computer vision, image processing, and neural networks through hands-on activities and projects.
 
 ## Projects
 
 ### Laboratory Activity 1: Coin Detection
 
-A computer vision activity focused on detecting coins in images using image processing techniques and OpenCV.
+An image-processing activity using Python and OpenCV to apply grayscale conversion, filtering, sharpening, and edge detection to Philippine coin images.
+
+**Technologies:** Python, OpenCV, NumPy, Matplotlib
 
 [View Repository](https://github.com/Renna18/laboratory-activity-1-coin-detection)
 
-### Laboratory Activity 2: Can a Simple Neural Network Recognize Images?
+### Laboratory Activity 2: Neural Network Image Recognition
 
-An introductory project exploring how a simple neural network learns to recognize and classify images.
+An image-classification experiment using a simple dense neural network to classify butterfly species. The activity compares model performance at different image resolutions.
+
+**Technologies:** Python, TensorFlow/Keras, NumPy, scikit-learn
 
 [View Repository](https://github.com/Renna18/laboratory-activity-2-neural-network-image-recognition)
 
 ### Midterm Project: Gesture Control
 
-A computer vision project that explores using hand gestures as input to control computer functions or applications.
+A hand-gesture recognition project using a fine-tuned YOLO11n model. Five static hand gestures are mapped to intended robot-control commands.
+
+**Technologies:** Python, Ultralytics YOLO, PyTorch, ONNX Runtime, OpenCV
 
 [View Repository](https://github.com/Renna18/gesture-control)
+
+## Technologies Used
+
+- Python
+- OpenCV
+- NumPy
+- Matplotlib
+- TensorFlow/Keras
+- scikit-learn
+- Ultralytics YOLO
+- PyTorch
+- ONNX Runtime
+- Google Colab
+- Jupyter Notebook
+
+## Learning Objectives
+
+- Apply image-processing techniques.
+- Understand edge detection and image filtering.
+- Explore neural network training and image classification.
+- Evaluate model performance using appropriate metrics.
+- Develop practical computer vision projects.
+
+## Course Information
+
+- **Course:** Computer Vision
+- **Program:** Bachelor of Science in Computer Science
