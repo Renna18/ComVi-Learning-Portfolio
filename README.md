@@ -3,10 +3,6 @@
 
 Welcome to my Computer Vision Learning Portfolio! This repository contains my laboratory activities and project outputs for the Computer Vision course.
 
-## About Me
-
-I am a BS Computer Science student exploring computer vision, image processing, and neural networks through hands-on activities and projects.
-
 ## Projects
 
 ### Laboratory Activity 1: Coin Detection
